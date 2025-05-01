@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/BaraaAlbakkar/BaraaAlbakkar/blob/main/coding%20(1).jpg" alt="Baraa's Banner" />
-</p>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=7F00FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Bara'a;Laravel+Backend+Developer;Passionate+about+clean+code+%26+UX" alt="Typing SVG" />
 </h1>

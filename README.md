@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Laravel, RESTful API development, Authentication systems, MySQL database design, Working with multi-role systems**
 
-- 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/baraa-al-bakkar/) | [**GitHub**](https://github.com/BaraaAlbakkar)
+- 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/baraa-al-bakkar/) | [**Email**](baraa.bakar2002@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

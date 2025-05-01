@@ -1,42 +1,58 @@
 <p align="center">
-  <img src="https://github.com/BaraaAlbakkar/BaraaAlbakkar/blob/e3a8880d165cb1c6bd35e06daa16ddda51322036/ChatGPT%20Image%20May%201%2C%202025%2C%2011_34_07%20AM.png" alt="Baraa's Banner" />
-</p>
-<h1 align="center">Hi 👋, I'm Bara'a</h1>
-<h3 align="center">Aspiring Software Engineer | Laravel Backend Developer | Passionate about building smart, user-focused apps.</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=baraaalbakkar&label=Profile%20views&color=0e75b6&style=flat" alt="baraaalbakkar" />
+  <img src="https://github.com/BaraaAlbakkar/BaraaAlbakkar/blob/main/ChatGPT%20Image%20May%201%2C%202025%2C%2011_34_07%20AM.png" alt="Baraa's Banner" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=baraaalbakkar" alt="baraaalbakkar" />
-  </a>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=7F00FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Bara'a;Laravel+Backend+Developer;Passionate+about+clean+code+%26+UX" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=baraaalbakkar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 🔭 I’m currently working on [**FoodTek** — a food ordering and delivery mobile app.](https://github.com/BaraaAlbakkar/FoodTek-API/tree/main)
+---
 
-- 🌱 I’m currently learning **Laravel Framework, WordPress, JavaScript**
+### 🔭 I’m currently working on
+**[FoodTek — a food ordering and delivery mobile app. 🍔📱](https://github.com/BaraaAlbakkar/FoodTek-API/tree/main)**
 
-- 💬 Ask me about **Laravel, RESTful API development, Authentication systems, MySQL database design, Working with multi-role systems**
+### 🌱 I’m currently learning
+**Laravel**, **WordPress**, **JavaScript**
 
-- 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/baraa-al-bakkar/)
+### 💬 Ask me about
+`Laravel`, `RESTful API`, `Authentication`, `MySQL`, `Multi-role Systems`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/baraa-al-bakkar/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baraa-al-bakkar" height="30" width="40" />
-  </a>
-  <a href="https://github.com/BaraaAlbakkar" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="baraaalbakkar" height="30" width="40" />
-  </a>
+### 📫 How to reach me
+[🔗 LinkedIn](https://www.linkedin.com/in/baraa-al-bakkar/)
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baraaalbakkar&show_icons=true&locale=en&layout=compact" alt="baraaalbakkar" /></p>
+### 🏆 Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=baraaalbakkar&theme=monokai&margin-w=15&margin-h=15" alt="Trophies"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baraaalbakkar&show_icons=true&locale=en" alt="baraaalbakkar" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baraaalbakkar&" alt="baraaalbakkar" /></p>
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=baraaalbakkar&show_icons=true&theme=radical" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baraaalbakkar&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baraaalbakkar&theme=radical" alt="Streak" />
+</p>

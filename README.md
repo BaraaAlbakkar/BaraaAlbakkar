@@ -8,17 +8,14 @@
 
 ---
 
-### 🔭 I’m currently working on
-**[FoodTek — a food ordering and delivery mobile app. 🍔📱](https://github.com/BaraaAlbakkar/FoodTek-API/tree/main)**
 
-### 🌱 I’m currently learning
-**Laravel**, **WordPress**, **JavaScript**
+- 🔭 I’m currently working on [**FoodTek** — a food ordering and delivery mobile app.](https://github.com/BaraaAlbakkar/FoodTek-API/tree/main)
 
-### 💬 Ask me about
-`Laravel`, `RESTful API`, `Authentication`, `MySQL`, `Multi-role Systems`
+- 🌱 I’m currently learning **Laravel Framework, WordPress, JavaScript**
 
-### 📫 How to reach me
-[🔗 LinkedIn](https://www.linkedin.com/in/baraa-al-bakkar/)
+- 💬 Ask me about **Laravel, RESTful API development, Authentication systems, MySQL database design, Working with multi-role systems**
+
+- 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/baraa-al-bakkar/)
 
 ---
 

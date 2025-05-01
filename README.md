@@ -1,21 +1,32 @@
 <h1 align="center">Hi 👋, I'm Bara'a</h1>
 <h3 align="center">Aspiring Software Engineer | Laravel Backend Developer | Passionate about building smart, user-focused apps.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=baraaalbakkar&label=Profile%20views&color=0e75b6&style=flat" alt="baraaalbakkar" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=baraaalbakkar&label=Profile%20views&color=0e75b6&style=flat" alt="baraaalbakkar" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baraaalbakkar" alt="baraaalbakkar" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=baraaalbakkar" alt="baraaalbakkar" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on [FoodTek — a food ordering and delivery mobile app.](https://github.com/BaraaAlbakkar/FoodTek-API/tree/main/FoodTek)
+- 🔭 I’m currently working on [**FoodTek** — a food ordering and delivery mobile app.](https://github.com/BaraaAlbakkar/FoodTek-API/tree/main/FoodTek)
 
 - 🌱 I’m currently learning **Laravel Framework, WordPress, JavaScript**
 
-- 💬 Ask me about **Laravel, RESTful API development, Authentication systems, MySQL database design , Working with multi-role systems**
+- 💬 Ask me about **Laravel, RESTful API development, Authentication systems, MySQL database design, Working with multi-role systems**
 
-- 📫 How to reach me **www.linkedin.com/in/baraa-al-bakkar**
+- 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/baraa-al-bakkar/) | [**GitHub**](https://github.com/BaraaAlbakkar)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bara'a al bakkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bara'a al bakkar" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/baraa-al-bakkar/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baraa-al-bakkar" height="30" width="40" />
+  </a>
+  <a href="https://github.com/BaraaAlbakkar" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="baraaalbakkar" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

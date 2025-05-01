@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/BaraaAlbakkar/BaraaAlbakkar/blob/main/ChatGPT%20Image%20May%201,%202025,%2012_51_39%20PM.png" alt="Baraa's Banner" />
+  <img src="https://github.com/BaraaAlbakkar/BaraaAlbakkar/blob/main/coding%20(1).jpg" alt="Baraa's Banner" />
 </p>
 
 <h1 align="center">

@@ -11,7 +11,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [**FoodTek** — a food ordering and delivery mobile app.]([https://github.com/BaraaAlbakkar/FoodTek-API/tree/main/FoodTek](https://github.com/BaraaAlbakkar/FoodTek-API/tree/main))
+- 🔭 I’m currently working on [**FoodTek** — a food ordering and delivery mobile app.](https://github.com/BaraaAlbakkar/FoodTek-API/tree/main)
 
 - 🌱 I’m currently learning **Laravel Framework, WordPress, JavaScript**
 

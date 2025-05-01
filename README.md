@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="(https://github.com/BaraaAlbakkar/BaraaAlbakkar/blob/e3a8880d165cb1c6bd35e06daa16ddda51322036/ChatGPT%20Image%20May%201%2C%202025%2C%2011_34_07%20AM.png)" alt="Baraa's Banner" />
+  <img src="https://github.com/BaraaAlbakkar/BaraaAlbakkar/blob/e3a8880d165cb1c6bd35e06daa16ddda51322036/ChatGPT%20Image%20May%201%2C%202025%2C%2011_34_07%20AM.png" alt="Baraa's Banner" />
 </p>
 <h1 align="center">Hi 👋, I'm Bara'a</h1>
 <h3 align="center">Aspiring Software Engineer | Laravel Backend Developer | Passionate about building smart, user-focused apps.</h3>

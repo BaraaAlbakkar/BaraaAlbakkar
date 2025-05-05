@@ -16,6 +16,7 @@
 - 💬 Ask me about **Laravel, RESTful API development, Authentication systems, MySQL database design, Working with multi-role systems**
 
 - 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/baraa-al-bakkar/)
+- 🌐 Check out my [**Portfolio Website**](https://baraaalbakkar.github.io/portfolio/portfolio)
 
 ---
 
